@@ -1,2 +1,2 @@
 # receitinhas
-Página esperimental utilizando Bootstrap
+Página experimental utilizando Bootstrap.

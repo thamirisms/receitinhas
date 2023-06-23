@@ -1,2 +1,2 @@
 # receitinhas
-Minhas Receitas
+Página esperimental utilizando Bootstrap
